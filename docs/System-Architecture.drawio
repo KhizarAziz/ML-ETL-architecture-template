@@ -1,0 +1,227 @@
+<mxfile host="app.diagrams.net" modified="2023-10-26T18:57:36.010Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="eT-SefgnX5Fm3w1ZvR_K" version="22.0.8" type="device">
+  <diagram name="Page-1" id="5Zid5eUr49LPNto3jNUf">
+    <mxGraphModel dx="1281" dy="1459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Us4isVm1REwz6PQovXvu-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-600" width="1560" height="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-59" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Data Lakehouse&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
+          <mxGeometry x="760" y="50" width="160" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Data Ingestion&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;dashed=1;dashPattern=12 12;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-458" y="69" width="246" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Batch Processing Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;dashed=1;dashPattern=12 12;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="50" y="110" width="200" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ML Model Training Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;dashed=1;dashPattern=12 12;pointerEvents=0;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="280" y="80" width="200" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Inference Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;dashed=1;dashPattern=12 12;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="500" y="100" width="185" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Us4isVm1REwz6PQovXvu-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;State Management&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="305" y="-510" width="190" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="okRBRZJAXJqxa18_oQfB-2" target="okRBRZJAXJqxa18_oQfB-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-2" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Söhne, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, Helvetica Neue, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot;&gt;On-board unit loggers&amp;nbsp; (Data Source)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-397" y="134" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="okRBRZJAXJqxa18_oQfB-5" target="okRBRZJAXJqxa18_oQfB-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="okRBRZJAXJqxa18_oQfB-5" target="T4aBIHStRHKb7jWYq7oS-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-17" value="Request new data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="T4aBIHStRHKb7jWYq7oS-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.5416" relative="1" as="geometry">
+            <mxPoint y="-63" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-5" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;AWS S3 Bucket&lt;br&gt;&lt;/b&gt;(Raw Data Folder)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="-390" y="264" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="okRBRZJAXJqxa18_oQfB-6" target="okRBRZJAXJqxa18_oQfB-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-104" y="210" />
+              <mxPoint x="-15" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-7" value="New data available notifiication" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="okRBRZJAXJqxa18_oQfB-44" vertex="1" connectable="0">
+          <mxGeometry x="0.7" relative="1" as="geometry">
+            <mxPoint x="1" y="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-6" value="Kafka Message Queue" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="324" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="okRBRZJAXJqxa18_oQfB-9" target="okRBRZJAXJqxa18_oQfB-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="okRBRZJAXJqxa18_oQfB-9" target="okRBRZJAXJqxa18_oQfB-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-31" value="New Data Processed!" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="T4aBIHStRHKb7jWYq7oS-30" vertex="1" connectable="0">
+          <mxGeometry x="-0.1799" y="1" relative="1" as="geometry">
+            <mxPoint x="23" y="-37" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-9" value="Preprocessing Engine" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="okRBRZJAXJqxa18_oQfB-10" target="okRBRZJAXJqxa18_oQfB-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-5" value="Trained model" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="okRBRZJAXJqxa18_oQfB-40" vertex="1" connectable="0">
+          <mxGeometry x="-0.2224" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="okRBRZJAXJqxa18_oQfB-10" target="T4aBIHStRHKb7jWYq7oS-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="200" />
+              <mxPoint x="420" y="-250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-27" value="marking a new model version as trained and associating it with relevant asset UUIDs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="T4aBIHStRHKb7jWYq7oS-26" vertex="1" connectable="0">
+          <mxGeometry x="0.6271" relative="1" as="geometry">
+            <mxPoint y="47" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-10" value="Training Engine" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="okRBRZJAXJqxa18_oQfB-11" target="okRBRZJAXJqxa18_oQfB-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-6" value="Model output&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="okRBRZJAXJqxa18_oQfB-48" vertex="1" connectable="0">
+          <mxGeometry x="-0.1434" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-11" value="&amp;nbsp;Inference Engine" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="okRBRZJAXJqxa18_oQfB-12" target="okRBRZJAXJqxa18_oQfB-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-52" value="Save Results" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="okRBRZJAXJqxa18_oQfB-51" vertex="1" connectable="0">
+          <mxGeometry x="-0.0369" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-12" value="&lt;div&gt;Postprocessor&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-13" value="&lt;b&gt;AWS RDS Postgres DB&lt;/b&gt;&lt;br&gt;export_table" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="790" y="120" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="okRBRZJAXJqxa18_oQfB-36" target="okRBRZJAXJqxa18_oQfB-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-55" value="Read StateVectors data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="okRBRZJAXJqxa18_oQfB-53" vertex="1" connectable="0">
+          <mxGeometry x="-0.0584" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-36" value="&lt;b&gt;AWS S3 Bucket&lt;br&gt;&lt;/b&gt;(Preprocessed Data Folder)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="97.5" y="281" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="okRBRZJAXJqxa18_oQfB-39" target="okRBRZJAXJqxa18_oQfB-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-50" value="Read Latest Model" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="okRBRZJAXJqxa18_oQfB-49" vertex="1" connectable="0">
+          <mxGeometry x="0.0306" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-39" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;AWS S3 Bucket&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;(Trained Models Folder)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="317" y="284" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;opacity=70;" parent="1" source="okRBRZJAXJqxa18_oQfB-42" target="okRBRZJAXJqxa18_oQfB-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-56" value="preprocess_data(new_data)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="okRBRZJAXJqxa18_oQfB-43" vertex="1" connectable="0">
+          <mxGeometry x="0.5136" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="-105" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;opacity=60;" parent="1" source="okRBRZJAXJqxa18_oQfB-42" target="okRBRZJAXJqxa18_oQfB-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-57" value="start_training()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="okRBRZJAXJqxa18_oQfB-45" vertex="1" connectable="0">
+          <mxGeometry x="0.6615" y="-4" relative="1" as="geometry">
+            <mxPoint y="-92" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;opacity=70;" parent="1" source="okRBRZJAXJqxa18_oQfB-42" target="okRBRZJAXJqxa18_oQfB-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-58" value="start_infernce(latest_model, new_data):" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="okRBRZJAXJqxa18_oQfB-47" vertex="1" connectable="0">
+          <mxGeometry x="0.7541" y="1" relative="1" as="geometry">
+            <mxPoint y="-90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="okRBRZJAXJqxa18_oQfB-42" target="T4aBIHStRHKb7jWYq7oS-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-25" value="&lt;b&gt;Prprocessing:&lt;/b&gt;&lt;br&gt;1.Query processed_file_IDs.&lt;br&gt;2. Write latest processed_files_IDs.&lt;br&gt;&lt;br&gt;&lt;b&gt;Training:&lt;/b&gt;&lt;br&gt;1. Query if enough processed data available for training?&lt;br&gt;&lt;br&gt;&lt;b&gt;Inference:&lt;/b&gt;&lt;br&gt;1.&amp;nbsp;queries to get the latest trained model&lt;br&gt;2. Notify List of inferenced IDs." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" parent="T4aBIHStRHKb7jWYq7oS-24" vertex="1" connectable="0">
+          <mxGeometry x="0.0995" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okRBRZJAXJqxa18_oQfB-42" value="&lt;b&gt;Pipeline Manager&lt;/b&gt;&lt;br&gt;(&lt;font style=&quot;font-size: 8px;&quot;&gt;Schedules Jobs, Orchestrates &amp;amp; Coordinates Pipeline&lt;/font&gt;)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="-110" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T4aBIHStRHKb7jWYq7oS-9" target="okRBRZJAXJqxa18_oQfB-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-22" value="Raw Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="T4aBIHStRHKb7jWYq7oS-21" vertex="1" connectable="0">
+          <mxGeometry x="0.4114" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-9" value="Data Fetcher" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-184" y="134" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="T4aBIHStRHKb7jWYq7oS-23" target="T4aBIHStRHKb7jWYq7oS-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-35" value="ETL State Storage" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="T4aBIHStRHKb7jWYq7oS-34" vertex="1" connectable="0">
+          <mxGeometry x="0.08" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-23" value="State Manager&lt;br&gt;(&lt;font style=&quot;font-size: 7px;&quot;&gt;Keeps tack of ETL state&lt;/font&gt;)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="355" y="-272" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="okRBRZJAXJqxa18_oQfB-12" target="okRBRZJAXJqxa18_oQfB-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="310" />
+              <mxPoint x="700" y="310" />
+              <mxPoint x="700" y="-80" />
+              <mxPoint x="50" y="-80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-29" value="Notify Infered successful" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="T4aBIHStRHKb7jWYq7oS-28" vertex="1" connectable="0">
+          <mxGeometry x="-0.0931" y="2" relative="1" as="geometry">
+            <mxPoint x="40" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4aBIHStRHKb7jWYq7oS-32" value="&lt;b&gt;AWS RDS Postgres DB&lt;/b&gt; etl_state_table" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="-472" width="100" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
