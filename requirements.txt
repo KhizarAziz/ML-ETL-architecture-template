@@ -1,0 +1,5 @@
+confluent-kafka
+schedule
+boto3
+pandas
+psycopg2

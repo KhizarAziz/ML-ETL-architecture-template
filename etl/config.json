@@ -1,0 +1,19 @@
+{
+    "asset_uuids": [
+      "uuid1",
+      "uuid2",
+      "uuid3"
+    ],
+    "model_parameters": {
+      "learning_rate": 0.01,
+      "num_epochs": 100,
+      "batch_size": 32,
+      "other_param": "value"
+    },
+    "pipeline_settings":{
+      "schuler_time_minutes":10,
+      "listen_to_kafka_topic":false
+
+    }
+
+  }
